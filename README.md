@@ -1,16 +1,30 @@
-- 👋 Hi, I’m @MrKarabin
+# Hi, I’m @MrKarabin
 
-- 👀 About Me:
+## About Me
 I am a programmer with expertise in JavaScript and Java. I focus on creating modern web applications and solving complex programming challenges. My work emphasizes building efficient, scalable, and user-friendly solutions tailored to both users and businesses.
 
-- 🌱 Currently Learning:
+## Currently Learning
 I am continuously expanding my skill set. Currently, I am delving into advanced web development frameworks, performance optimization techniques, and exploring new technologies to keep up with the fast-evolving tech landscape.
 
-- 💞️ Looking to Collaborate On:
+## Looking to Collaborate On
 I am interested in open-source projects, innovative web applications, or any software development challenge where I can contribute my skills and learn from others in the community.
 
-- 📫 How to Reach Me:
-You can contact me via email: kamil@tencode.pl. I am open to discussing potential projects, collaborations, or simply connecting with fellow developers.
+## How to Reach Me
+You can contact me via email: [kamil@tencode.pl](mailto:kamil@tencode.pl). I am open to discussing potential projects, collaborations, or simply connecting with fellow developers.
 
-- ⚡ Fun Fact:
+## Fun Fact
 Outside of programming, I enjoy exploring new gadgets, experimenting with emerging technologies, and finding creative solutions to everyday problems.
+
+---
+
+## GitHub Stats
+
+![MrKarabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrKarabin&show_icons=true&theme=radical)
+
+## WakaTime Stats
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrKarabin&layout=compact)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKarabin&layout=compact&theme=radical)
