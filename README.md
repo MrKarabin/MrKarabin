@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">A passionate frontend/backend developer</h3>
 
+- 🔭 I’m currently working on [TenCode](discord.gg/invite/cs5T3p6WFa)
+
+- 👯 I’m looking to collaborate on [Tytani Bezpieczeństwa](discord.gg/invite/qD8gFRyFmM)
+
+- 📫 How to reach me **kamil@tencode.pl**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/mr_karabin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr_karabin" height="30" width="40" /></a>
