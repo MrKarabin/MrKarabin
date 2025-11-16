@@ -3,7 +3,7 @@
 
 <h2>My Projects</h2>
 
-<div align="center"><img src="https://cdn.discordapp.com/icons/1415684384715047005/a856476abcbc210b0a68c5437346e5f2.jpg" style="margin: 0 10px;" /><img src="https://cdn.discordapp.com/icons/1404429618030837800/55f715f861622b039aa2c82baaff8190.jpg" /></div>
+<div align="center"><a href="https://discord.gg/E8cJzYzsQA"><img src="https://cdn.discordapp.com/icons/1415684384715047005/a856476abcbc210b0a68c5437346e5f2.jpg" style="margin: 0 10px;" /></a><img src="https://cdn.discordapp.com/icons/1404429618030837800/55f715f861622b039aa2c82baaff8190.jpg" /></div>
 
 <h2>My Badges</h2>
 
