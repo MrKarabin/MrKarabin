@@ -4,7 +4,6 @@
 <h2>My Skills</h2>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82"/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <h2>My Projects</h2>
 
