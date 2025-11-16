@@ -4,6 +4,7 @@
 <h2>My Skills</h2>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)"/>
 
 <h2>My Projects</h2>
 
