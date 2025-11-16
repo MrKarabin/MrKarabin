@@ -3,7 +3,7 @@
 
 <h2>My Skills</h2>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/><img src="[https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82"/>
 
 <h2>My Projects</h2>
 
